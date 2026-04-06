@@ -1,0 +1,9 @@
+copernicus_api
+fiona
+geopandas
+numpy
+pandas
+pyproj
+rasterio
+requests
+shapely
