@@ -1,11 +1,9 @@
 # 🌊 SAR-Based Flood Inundation & Agricultural Impact Assessment
-### Karamchedu Mandal, Bapatla District, Andhra Pradesh
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
 ![Sentinel-1](https://img.shields.io/badge/Sentinel--1-SAR-orange)
 ![Sentinel-2](https://img.shields.io/badge/Sentinel--2-Optical-green)
 ![GEE](https://img.shields.io/badge/Google%20Earth%20Engine-Enabled-4285F4?logo=google&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
 
