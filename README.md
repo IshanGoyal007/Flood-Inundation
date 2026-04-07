@@ -239,6 +239,5 @@ Update `input_directory`, `reference_dem`, and `output_directory`.
 ## 👤 Author
 
 **Ishan Goyal**  
-*Image Analyst — Remote Sensing & GIS*
 
 ---
